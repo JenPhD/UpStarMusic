@@ -1,3 +1,7 @@
+//How to keep mongod running all the time
+//brew services start mongo
+//brew services stop mongo
+
 var webpack = require('webpack');
 var path = require('path');
 var fs = require('fs');
